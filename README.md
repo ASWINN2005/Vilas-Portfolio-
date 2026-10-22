@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Vilas PK — AI Engineer & Data Scientist Portfolio
+#  Vilas PK — AI Engineer & Data Scientist Portfolio
 
 **A high-performance, Apple Keynote-inspired portfolio engineered for precision and elegance.**  
 Featuring interactive deep learning simulations, computer vision gesture synthesis, modular Bento Grid architecture, and seamless single-page motion.
