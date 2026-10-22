@@ -108,57 +108,6 @@ The application is built with a focus on fluid 60 FPS animations, clean tactile 
 
 ---
 
-## 💻 Getting Started
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (version 18 or higher recommended)
-- `npm` or `yarn`
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ASWINN2005/Vilas-Portfolio-.git
-   cd Vilas-Portfolio-
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server**:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
-   The compiled bundle will be generated inside the `dist/` directory.
-
----
-
-## 🌐 Render Deployment
-
-This repository includes a [`render.yaml`](./render.yaml) configuration for automated deployment.
-
-1. Go to the [Render Dashboard](https://dashboard.render.com).
-2. Click **New +** → **Static Site**.
-3. Connect your repository: `ASWINN2005/Vilas-Portfolio-`.
-4. Render will automatically detect the build parameters:
-   - **Build Command**: `npm install && npm run build`
-   - **Publish Directory**: `dist`
-5. Under **Redirects/Rewrites**, configure:
-   - **Source**: `/*`
-   - **Destination**: `/index.html`
-   - **Action**: `Rewrite`
-6. Click **Create Static Site**.
-
----
-
 ## 📬 Author & Contact
 
 **Vilas PK** — *Data Scientist & AI Engineer*  
