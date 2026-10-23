@@ -2,7 +2,7 @@
 
 #  Vilas PK — AI Engineer & Data Scientist Portfolio
 
-**A high-performance, Apple Keynote-inspired portfolio engineered for precision and elegance.**  
+**A high-performance, portfolio engineered for precision and elegance.**  
 Featuring interactive deep learning simulations, computer vision gesture synthesis, modular Bento Grid architecture, and seamless single-page motion.
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
